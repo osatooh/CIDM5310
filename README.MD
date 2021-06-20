@@ -44,3 +44,9 @@ hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+### after making changes 
+git add 'README.MD' or a -A to add all 
+git commit -m ''
+git push -u origin master
