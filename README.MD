@@ -16,3 +16,8 @@ Add files for tracking
 
 `git add -A`
 `git init` # to reinitialize 
+# `A` next to file name mean added but not commited
+
+__Git Commit__
+Commit recent tracked changes 
+# `-m` means to add message 
