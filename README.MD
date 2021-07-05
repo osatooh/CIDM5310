@@ -50,3 +50,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 git add 'README.MD' or a -A to add all 
 git commit -m ''
 git push -u origin master
+
+
+#fb = pd.read_csv('./exercises/fb.csv', index_col='date', parse_dates=True)
+#quakes = pd.read_csv('./exercises/earthquakes.csv')
+ 
+
+ ## for stock_Analysis 
+ py -m pip install stock-analysis-engine
